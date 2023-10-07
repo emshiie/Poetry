@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Verdana, sans-serif;
     color: black;
-    background-image: url("../poetry/image/background.jpg");
+    background-image: url("../Poetry/image/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -26,7 +26,7 @@ h2{
 }
 
 li {
-    list-style-image: url("../poetry/image/iconplus.png");
+    list-style-image: url("../Poetry/image/iconplus.png");
     line-height: 1.6em;
     margin-left: 120px;
     font-weight: bold;
@@ -39,7 +39,6 @@ li {
     padding: 40px;
 	margin: 10px auto 10px auto;
 	border: 10px double #333;
-    background-image: url("../img/wall2.png");
 }
 
 table {
